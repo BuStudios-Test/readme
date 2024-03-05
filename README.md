@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **im dumb**
 
-- 🐈 I sometimes share games on scratch **bit.ly/bustudios**
+- 🐈 I sometimes share games on scratch **https://bit.ly/bustudios**
 
 
 <h3 align="left">Languages and Tools:</h3>
