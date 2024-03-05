@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **support@bustudios.org**
 
-- ⚡ Fun fact **im dumb**
+- ⚡ Fun fact **im very dumb**
 
 - 🐈 I sometimes share games on scratch **https://bit.ly/bustudios**
 
