@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **[my website](https://www.bustudios.org/)**
 
-- 🌱 I’m currently learning **web development, hacking, game development**
+- 🌱 I’m currently learning **web development, hacking, game development and more :)**
 
 - 📫 How to reach me **support@bustudios.org**
 
